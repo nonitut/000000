@@ -1,0 +1,30 @@
+
+
+@media screen and (min-width: 1224px) {
+  /* Desktop */ 
+}
+
+@media screen and (max-width: 1024px) {
+   /* iPad */
+  /* Сюда писать код */  
+}
+
+@media screen and (min-width: 768px) {
+ /* iPad */
+/* Сюда писать код */
+}
+
+@media screen and (max-width: 768px) {
+   /* iPad */
+  /* Сюда писать код */  
+}
+
+@media screen and (min-width: 320px) {
+ /* iPhone Portrait */
+ /* Сюда писать код */  
+}
+
+@media screen and (max-width: 480px) {
+ /* iPhone Portrait */
+ /* Сюда писать код */  
+}
